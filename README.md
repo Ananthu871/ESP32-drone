@@ -66,4 +66,4 @@ Build Images
 ![Drone](images-top-wiring.jpg)
 ![Drone](mini-drone-electronics.jpg)
 ![Drone](mini-drone-frontview.jpg)
-![Drone]
+![Drone](mini-drone-topview.jpg)
