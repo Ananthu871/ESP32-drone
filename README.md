@@ -60,5 +60,5 @@ Future Improvements
 - Develop custom firmware
 
 Build Images
-![Drone](images-drone-electronics-closeup.jpeg)
+![Drone](images-drone-electronics-closeup.jpg)
 ![Drone](images-esp32drone.jpeg)
