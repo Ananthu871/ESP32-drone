@@ -2,7 +2,7 @@
 ESP32-based quadcopter drone with MPU6050, built using hardware integration and preconfigured firmware, with mobile app control.
 ESP32-Based Quadcopter Drone
 
-##Overview
+Overview
 
 A compact quadcopter drone built using ESP32 and MPU6050 by integrating hardware components and configuring flight control using prebuilt firmware.
 
