@@ -65,5 +65,5 @@ Build Images
 ![Drone](images-esp32drone.jpeg)
 ![Drone](images-top-wiring.jpg)
 ![Drone](mini-drone-electronics.jpg)
-![Drone]
+![Drone](mini-drone-frontview.jpg)
 ![Drone]
