@@ -62,3 +62,4 @@ Future Improvements
 Build Images
 ![Drone](images-drone-electronics-closeup.jpg)
 ![Drone](images-esp32drone.jpeg)
+![Drone]images-top-wiring.jpg
