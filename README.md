@@ -60,7 +60,7 @@ Future Improvements
 - Develop custom firmware
 
 Build Images
-![Drone]()
+![Drone](https://github.com/Ananthu871/ESP32-drone/blob/main/WhatsApp%20Image%202026-06-26%20at%202.15.33%20PM.jpeg)
 ![Drone](images-esp32drone.jpeg)
 ![Drone](images-top-wiring.jpg)
 ![Drone](mini-drone-electronics.jpg)
