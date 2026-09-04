@@ -63,6 +63,6 @@ Build Images
 ![Drone](https://github.com/Ananthu871/ESP32-drone/blob/main/images/WhatsApp%20Image%202026-06-26%20at%202.15.33%20PM.jpeg)
 ![Drone](https://github.com/Ananthu871/ESP32-drone/blob/main/images/images-esp32drone.jpeg)
 ![Drone](https://github.com/Ananthu871/ESP32-drone/blob/main/images/images-top-wiring.jpg)
-![Drone](mini-drone-electronics.jpg)
+![Drone](https://github.com/Ananthu871/ESP32-drone/blob/main/images/mini-drone-electronics.jpg)
 ![Drone](mini-drone-frontview.jpg)
 ![Drone](mini-drone-topview.jpg)
