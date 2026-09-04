@@ -64,5 +64,5 @@ Build Images
 ![Drone](https://github.com/Ananthu871/ESP32-drone/blob/main/images/images-esp32drone.jpeg)
 ![Drone](https://github.com/Ananthu871/ESP32-drone/blob/main/images/images-top-wiring.jpg)
 ![Drone](https://github.com/Ananthu871/ESP32-drone/blob/main/images/mini-drone-electronics.jpg)
-![Drone](mini-drone-frontview.jpg)
+![Drone](https://github.com/Ananthu871/ESP32-drone/blob/main/images/mini-drone-frontview.jpg)
 ![Drone](mini-drone-topview.jpg)
